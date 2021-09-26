@@ -2,7 +2,7 @@
 
 # My Project Link: https://assignment-8-react-charity.netlify.app/
 
-*This project is created with React Js with Vanilla CSS.
+*This project is created with React Js along with Vanilla CSS.
 
 *The project is about making a charity function for the betterment of street children.
 
