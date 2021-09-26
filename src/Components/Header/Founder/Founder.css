@@ -1,0 +1,16 @@
+.founder-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    background-color:aliceblue;
+}
+.members{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 1rem;
+    margin-right: 15px;
+}
+.donor{
+    border-right: 1px solid grey;
+    margin-right: 20px;
+    margin-left: 15px;
+}

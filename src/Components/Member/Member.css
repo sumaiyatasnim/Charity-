@@ -1,0 +1,15 @@
+.member-container{
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    background-color: white;
+    
+}
+.member-container:hover{
+    background-color:rgba(176, 224, 230, 0.137);
+    box-shadow: 20px 20px 20px 20px solid gray;
+}
+.member-img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
