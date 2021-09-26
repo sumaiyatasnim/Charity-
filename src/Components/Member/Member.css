@@ -1,15 +1,27 @@
 .member-container{
     border: 1px solid whitesmoke;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: white;
-    
+    box-shadow:2px 2px 2px 2px rgba(128, 128, 128, 0.295);
 }
 .member-container:hover{
     background-color:rgba(176, 224, 230, 0.137);
-    box-shadow: 20px 20px 20px 20px solid gray;
 }
 .member-img{
     height: 150px;
     width: 150px;
     border-radius: 50%;
+    padding-top: 10px;
+}
+.add{
+    margin-bottom: 15px;
+    padding:4px 30px;
+    background-color: #c45500;
+    border: 1px solid gray;
+    color:white;
+    border-radius: 20px;
+    /* font-weight: 600px; */
+}
+.icon{
+    margin-right: 8px;
 }

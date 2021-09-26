@@ -10,7 +10,10 @@
     margin-right: 15px;
 }
 .donor{
-    border-right: 1px solid grey;
+    border-right: 1px solid rgba(128, 128, 128, 0.438);
     margin-right: 20px;
     margin-left: 15px;
+}
+.total-members{
+    color: royalblue;
 }

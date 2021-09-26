@@ -1,0 +1,26 @@
+.addMember-conatainer{
+    margin-top: 89px;
+    
+}
+.addMember-count{
+    background-color: white;
+    padding: 10px;
+    border: 1px solid whitesmoke;
+    border-radius: 15px;
+    box-shadow:2px 2px 2px 2px rgba(128, 128, 128, 0.295);
+    margin-right: 10px;
+}
+#addMember-title{
+    color: steelblue;
+}
+.names{
+    margin-top: 20px;
+    background-color: white;
+    padding: 15px;
+    border:1px solid whitesmoke;
+    border-radius: 20px;
+    box-shadow:2px 2px 2px 2px rgba(128, 128, 128, 0.295);
+}
+.icon2{
+    color: rgba(0, 0, 255, 0.753);
+}
